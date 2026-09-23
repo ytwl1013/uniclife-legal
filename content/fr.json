@@ -1,0 +1,95 @@
+{
+  "lang": "fr-FR",
+  "updated": "Dernière mise à jour : 23 septembre 2026",
+  "nav": {
+    "privacy": "Politique de confidentialité",
+    "privacy-choices": "Choix de confidentialité",
+    "delete-account": "Supprimer le compte",
+    "support": "Assistance"
+  },
+  "intros": {
+    "privacy": "Comment UnicLife Key Cabinet traite vos données personnelles.",
+    "privacy-choices": "Exercez vos droits sans vous connecter à l’application.",
+    "delete-account": "Demandez la suppression de votre compte, même sans l’application.",
+    "support": "Contactez l’assistance UnicLife Key Cabinet."
+  },
+  "privacy": [
+    [
+      "Responsable du traitement",
+      [
+        "Cette politique couvre l’application UnicLife Key Cabinet et son service. Le fournisseur UnicLife indiqué dans la commande ou le contrat de service gère les données de compte et de service. Une organisation cliente peut déterminer séparément le traitement des renseignements sur les emprunteurs, employés, clés et accès saisis par ses administrateurs. Écrivez à ytwl1013@gmail.com pour connaître le responsable de votre compte."
+      ]
+    ],
+    [
+      "Données et sources",
+      [
+        "Nous traitons le nom, l’adresse e-mail, la langue, les empreintes de mots de passe, les sessions, les connexions et les consentements, ainsi que les jetons de notification facultatifs ; les identifiants, emplacements, membres et réglages des armoires ; les noms de clés, les noms et coordonnées facultatives des emprunteurs, les prêts et dates de retour ; les activités, journaux d’audit et données de sécurité limitées ; les messages d’assistance et pièces jointes envoyées. Ces données proviennent de vous, de votre organisation, des armoires connectées et de l’utilisation de l’application. Les images de caméra utilisées pour lire les QR codes ne sont pas volontairement enregistrées ou téléversées. Une photo de profil facultative reste sur votre appareil."
+      ]
+    ],
+    [
+      "Finalités et bases légales",
+      [
+        "Nous utilisons ces données pour authentifier et protéger les comptes, exploiter les armoires, gérer les clés et prêts, envoyer des alertes de service, conserver des traces de sécurité, fournir l’assistance, respecter la loi et résoudre les litiges. Dans l’EEE et au Royaume-Uni, la base peut être le contrat, l’intérêt légitime, une obligation légale ou le consentement lorsqu’il est requis. Le consentement peut être retiré pour l’avenir."
+      ]
+    ],
+    [
+      "Destinataires, sécurité et transferts",
+      [
+        "Les administrateurs autorisés peuvent voir les données pertinentes. Des prestataires peuvent assurer l’hébergement, le stockage, les e-mails, les notifications push, la sécurité et l’assistance. Nous utilisons le contrôle d’accès, l’authentification, le chiffrement des transmissions et les journaux d’audit. Nous ne vendons pas les données et ne les partageons pas pour la publicité ciblée. Les systèmes de production et sauvegardes sont destinés à être hébergés aux États-Unis. Les transferts depuis l’EEE, le Royaume-Uni ou la Suisse doivent reposer, le cas échéant, sur un mécanisme légal et des garanties adaptées ; contactez-nous pour en savoir plus."
+      ]
+    ],
+    [
+      "Conservation et suppression",
+      [
+        "Nous conservons les données pendant la fourniture du service, puis seulement si la sécurité, la loi ou un litige le justifie. La durée dépend des données et de leur finalité. La suppression du compte révoque les sessions, retire les adhésions actives et anonymise le nom et l’e-mail. Les prêts historiques, événements d’armoire et dossiers d’assistance ou d’audit peuvent être conservés pour des raisons légitimes. Un super-administrateur doit d’abord transférer ou retirer sa responsabilité sur les armoires ; l’assistance peut aider."
+      ]
+    ],
+    [
+      "Droits, enfants et contact",
+      [
+        "Selon la loi applicable, vous pouvez demander l’accès, la rectification, l’effacement, la limitation, l’opposition ou la portabilité et retirer votre consentement. Les personnes dans l’EEE et au Royaume-Uni peuvent saisir une autorité de contrôle ; certains États américains accordent d’autres droits. Nous pouvons vérifier votre identité et appliquer les exceptions légales. Le service est réservé aux utilisateurs autorisés d’organisations et ne vise pas les enfants de moins de 16 ans. Écrivez à ytwl1013@gmail.com sans envoyer de mot de passe ni de code d’accès."
+      ]
+    ]
+  ],
+  "choices": {
+    "request_title": "Envoyer une demande",
+    "request": [
+      "Écrivez à ytwl1013@gmail.com, si possible depuis l’adresse de votre compte. Précisez si vous demandez l’accès, une copie, une rectification, la suppression, une limitation, une opposition ou le retrait du consentement. N’envoyez pas de mot de passe ni de pièce d’identité dans le premier message."
+    ],
+    "button": "Envoyer une demande",
+    "rights_title": "Traitement des demandes",
+    "rights": [
+      "Nous pouvons vérifier votre identité et consulter l’organisation cliente responsable des données qu’elle a saisies. Les demandes de l’EEE et du Royaume-Uni reçoivent généralement une réponse sous un mois, sous réserve des prolongations autorisées. Vous pouvez saisir votre autorité de protection des données."
+    ],
+    "ads_title": "Publicité et suivi",
+    "ads": [
+      "Nous ne vendons pas les données personnelles, ne les partageons pas pour la publicité ciblée et n’affichons pas de publicité tierce. Il n’y a donc pas de bouton de retrait publicitaire. Les notifications facultatives et autorisations se gèrent dans l’application ou les réglages de l’appareil."
+    ]
+  },
+  "delete": {
+    "request_title": "Demander la suppression sur le Web",
+    "request": [
+      "Écrivez à ytwl1013@gmail.com avec l’objet « Delete my UnicLife Key Cabinet account », de préférence depuis l’adresse du compte. Si vous n’y avez plus accès, indiquez un moyen sûr de vous joindre. Nous vérifierons que vous êtes titulaire du compte et vous aiderons sans exiger de réinstaller l’application."
+    ],
+    "button": "Envoyer une demande de suppression",
+    "app_title": "Supprimer dans l’application",
+    "app": [
+      "Une fois connecté, ouvrez Compte → Compte et sécurité → Supprimer le compte, puis confirmez. Un super-administrateur doit d’abord transférer son rôle ou supprimer l’armoire. L’assistance peut aider."
+    ],
+    "data_title": "Données conservées",
+    "data": [
+      "La suppression révoque les sessions, retire les adhésions actives et les jetons de notification, puis anonymise le nom et l’e-mail. Les prêts historiques, événements d’armoire et dossiers d’assistance ou d’audit peuvent rester pour la sécurité, la loi ou les droits des autres membres. Nous préciserons la conservation applicable dans notre réponse."
+    ]
+  },
+  "support": {
+    "contact_title": "Contacter l’assistance",
+    "contact": [
+      "Écrivez à ytwl1013@gmail.com pour toute question sur l’application, le compte ou une armoire. Décrivez le problème et le message d’erreur éventuel ; n’envoyez pas de mot de passe ni de code d’accès."
+    ],
+    "button": "Ouvrir l’e-mail",
+    "privacy_title": "Confidentialité et compte",
+    "privacy": [
+      "Utilisez Choix de confidentialité pour exercer vos droits et Supprimer le compte pour demander la suppression sans l’application."
+    ]
+  }
+}

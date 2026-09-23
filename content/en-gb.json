@@ -1,0 +1,95 @@
+{
+  "lang": "en-GB",
+  "updated": "Last updated: 23 September 2026",
+  "nav": {
+    "privacy": "Privacy Policy",
+    "privacy-choices": "Privacy Choices",
+    "delete-account": "Delete Account",
+    "support": "Support"
+  },
+  "intros": {
+    "privacy": "How UnicLife Key Cabinet handles personal information.",
+    "privacy-choices": "Exercise your privacy rights without signing in.",
+    "delete-account": "Request account deletion even if the app is no longer installed.",
+    "support": "Contact UnicLife Key Cabinet support."
+  },
+  "privacy": [
+    [
+      "Who is responsible",
+      [
+        "This policy covers the UnicLife Key Cabinet app and service. The UnicLife provider named in the applicable order or service agreement manages account and service information. A customer organisation may separately control the borrower, employee, key and access information its administrators enter. Email ytwl1013@gmail.com to identify the provider responsible for your account."
+      ]
+    ],
+    [
+      "Information and sources",
+      [
+        "We process account names, email addresses, language, password hashes, sessions, login and consent records and optional notification tokens; cabinet identifiers, locations, members and configuration; key labels, borrower names and optional contact details, loans and return dates; activity, audit and limited security diagnostics; and support messages and submitted attachments. Information comes from you, your organisation, connected cabinets and app use. QR-scanning camera frames are not intentionally stored or uploaded. An optional profile photo stays on your device."
+      ]
+    ],
+    [
+      "Purposes and legal bases",
+      [
+        "We use information to authenticate and protect accounts, operate cabinets, manage keys and loans, send service alerts, keep audit and security records, respond to support, comply with law and resolve disputes. In the EEA and UK, the basis may be contract, legitimate interests, legal obligation or consent where required. Consent may be withdrawn for future processing."
+      ]
+    ],
+    [
+      "Recipients, security and transfers",
+      [
+        "Authorised customer administrators may see relevant records. Providers may handle hosting, storage, email, push notifications, security and support. We use access controls, authentication, encrypted transport and audit logs. We do not sell data or share it for targeted advertising. Production systems and backups are intended to be in the United States. EEA, UK or Swiss transfers must use an applicable lawful mechanism and safeguards where required; ask us for details."
+      ]
+    ],
+    [
+      "Retention and deletion",
+      [
+        "We keep information while needed for the service, then only for security, legal duties or disputes; the period depends on data and purpose. Account deletion revokes sessions, removes active memberships and anonymises name and email. Historical loans, cabinet events, support and audit records may remain for accountability or lawful reasons. A cabinet Super Admin must transfer or remove that responsibility first; support can help."
+      ]
+    ],
+    [
+      "Rights, children and contact",
+      [
+        "Where applicable, you may request access, correction, erasure, restriction, objection or portability and withdraw consent. EEA and UK users may complain to a supervisory authority; US state residents may have additional rights. We may verify identity and apply lawful exceptions. The service is for authorised organisational users, not children under 16. Email ytwl1013@gmail.com; do not send passwords or cabinet codes."
+      ]
+    ]
+  ],
+  "choices": {
+    "request_title": "Make a request",
+    "request": [
+      "Email ytwl1013@gmail.com, preferably from your account address. State whether you seek access, a copy, correction, deletion, restriction, objection or withdrawal of consent. Do not send passwords or identity documents initially."
+    ],
+    "button": "Email a privacy request",
+    "rights_title": "How requests are handled",
+    "rights": [
+      "We may verify identity and coordinate with the customer organisation controlling information it entered. EEA and UK requests are generally answered within one month, subject to permitted extensions. You may complain to your local data protection authority."
+    ],
+    "ads_title": "Advertising choices",
+    "ads": [
+      "We do not sell personal information, share it for targeted advertising or run third-party ads. There is no advertising opt-out switch. Optional notifications and permissions can be managed in the app or device settings."
+    ]
+  },
+  "delete": {
+    "request_title": "Request deletion online",
+    "request": [
+      "Email ytwl1013@gmail.com with the subject “Delete my UnicLife Key Cabinet account”, preferably from your account address. If you cannot access that mailbox, tell us how to contact you safely. We will verify ownership and help without requiring you to reinstall the app."
+    ],
+    "button": "Email deletion request",
+    "app_title": "Delete in the app",
+    "app": [
+      "While signed in, open Account → Account & security → Delete account and confirm. A cabinet Super Admin must transfer the role or delete the cabinet first. Support can help."
+    ],
+    "data_title": "What happens to data",
+    "data": [
+      "Deletion revokes sessions, removes active memberships and notification tokens, and anonymises account name and email. Historical loans, cabinet events, support and audit records may remain for security, law or other organisation members. We will explain applicable retention when replying."
+    ]
+  },
+  "support": {
+    "contact_title": "Contact support",
+    "contact": [
+      "Email ytwl1013@gmail.com for app, account or cabinet help. Describe the problem and any error message; do not send passwords or cabinet access codes."
+    ],
+    "button": "Open email app",
+    "privacy_title": "Privacy and account help",
+    "privacy": [
+      "Use Privacy Choices to exercise rights and Delete Account to request deletion without the app."
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "lang": "es-ES",
+  "updated": "Última actualización: 23 de septiembre de 2026",
+  "nav": {
+    "privacy": "Política de privacidad",
+    "privacy-choices": "Opciones de privacidad",
+    "delete-account": "Eliminar cuenta",
+    "support": "Asistencia"
+  },
+  "intros": {
+    "privacy": "Cómo trata UnicLife Key Cabinet los datos personales.",
+    "privacy-choices": "Ejerce tus derechos de privacidad sin iniciar sesión.",
+    "delete-account": "Solicita la eliminación aunque ya no tengas la aplicación.",
+    "support": "Contacta con la asistencia de UnicLife Key Cabinet."
+  },
+  "privacy": [
+    [
+      "Responsable",
+      [
+        "Esta política se aplica a la aplicación UnicLife Key Cabinet y su servicio. El proveedor UnicLife indicado en el pedido o contrato de servicio gestiona los datos de cuenta y del servicio. Una organización cliente puede decidir por separado cómo tratar los datos de prestatarios, empleados, llaves y acceso introducidos por sus administradores. Escribe a ytwl1013@gmail.com para conocer la entidad responsable de tu cuenta."
+      ]
+    ],
+    [
+      "Datos y procedencia",
+      [
+        "Tratamos nombre, correo, idioma, hash de contraseña, sesiones, registros de acceso y consentimiento y tokens opcionales de notificación; identificadores, ubicaciones, miembros y ajustes de armarios; nombres de llaves, nombres y datos de contacto opcionales de prestatarios, préstamos y fechas de devolución; actividad, auditoría y datos limitados de seguridad; mensajes de asistencia y archivos enviados. Los datos proceden de ti, tu organización, los armarios conectados y el uso de la app. Las imágenes de cámara usadas para leer códigos QR no se guardan ni suben intencionadamente. La foto de perfil opcional permanece en tu dispositivo."
+      ]
+    ],
+    [
+      "Finalidades y bases jurídicas",
+      [
+        "Usamos los datos para autenticar y proteger cuentas, operar armarios, gestionar llaves y préstamos, enviar avisos de servicio, conservar registros de seguridad, prestar asistencia, cumplir la ley y resolver disputas. En el EEE y Reino Unido, la base puede ser contrato, interés legítimo, obligación legal o consentimiento cuando se exija. Puedes retirar el consentimiento para el tratamiento futuro."
+      ]
+    ],
+    [
+      "Destinatarios, seguridad y transferencias",
+      [
+        "Los administradores autorizados pueden ver los datos pertinentes. Los proveedores pueden prestar alojamiento, almacenamiento, correo, notificaciones, seguridad y asistencia. Aplicamos controles de acceso, autenticación, cifrado en tránsito y auditoría. No vendemos datos ni los compartimos para publicidad dirigida. Los sistemas de producción y copias de seguridad están previstos en Estados Unidos. Las transferencias desde el EEE, Reino Unido o Suiza deben contar, cuando proceda, con un mecanismo legal y garantías apropiadas; puedes pedirnos detalles."
+      ]
+    ],
+    [
+      "Conservación y eliminación",
+      [
+        "Conservamos los datos mientras se necesiten para el servicio y después solo por seguridad, obligaciones legales o disputas. El plazo depende del dato y su finalidad. La eliminación de la cuenta revoca sesiones, quita membresías activas y anonimiza nombre y correo. Pueden conservarse préstamos históricos, eventos de armario y registros de asistencia y auditoría por motivos legítimos. Un superadministrador debe transferir o retirar antes su responsabilidad sobre el armario; asistencia puede ayudar."
+      ]
+    ],
+    [
+      "Derechos, menores y contacto",
+      [
+        "Según la ley aplicable, puedes solicitar acceso, rectificación, eliminación, limitación, oposición o portabilidad y retirar el consentimiento. En el EEE y Reino Unido puedes reclamar ante una autoridad de control; algunos estados de EE. UU. reconocen otros derechos. Podemos verificar tu identidad y aplicar excepciones legales. El servicio se dirige a usuarios autorizados de organizaciones, no a menores de 16 años. Escribe a ytwl1013@gmail.com sin enviar contraseñas ni códigos de armario."
+      ]
+    ]
+  ],
+  "choices": {
+    "request_title": "Presentar una solicitud",
+    "request": [
+      "Escribe a ytwl1013@gmail.com, preferiblemente desde el correo de tu cuenta. Indica si deseas acceso, copia, corrección, eliminación, limitación, oposición o retirar el consentimiento. No envíes contraseñas ni documentos de identidad en el primer mensaje."
+    ],
+    "button": "Enviar solicitud de privacidad",
+    "rights_title": "Tramitación de solicitudes",
+    "rights": [
+      "Podemos verificar tu identidad y coordinarnos con la organización cliente responsable de los datos que introdujo. Las solicitudes del EEE y Reino Unido suelen responderse en un mes, con posibles ampliaciones legales. Puedes reclamar ante tu autoridad de protección de datos."
+    ],
+    "ads_title": "Publicidad y seguimiento",
+    "ads": [
+      "No vendemos datos personales, no los compartimos para publicidad dirigida ni mostramos anuncios de terceros. Por eso no hay un interruptor de exclusión publicitaria. Las notificaciones opcionales y los permisos se gestionan en la app o en el dispositivo."
+    ]
+  },
+  "delete": {
+    "request_title": "Solicitar eliminación en la web",
+    "request": [
+      "Escribe a ytwl1013@gmail.com con el asunto «Delete my UnicLife Key Cabinet account», preferiblemente desde tu correo de cuenta. Si ya no tienes acceso, indícanos una forma segura de contactarte. Verificaremos la titularidad y te ayudaremos sin exigir reinstalar la app."
+    ],
+    "button": "Enviar solicitud de eliminación",
+    "app_title": "Eliminar en la app",
+    "app": [
+      "Tras iniciar sesión, abre Cuenta → Cuenta y seguridad → Eliminar cuenta y confirma. Si eres superadministrador de un armario, transfiere el rol o elimina el armario primero. Asistencia puede ayudarte."
+    ],
+    "data_title": "Qué ocurre con los datos",
+    "data": [
+      "Se revocan sesiones, se eliminan membresías activas y tokens de notificación y se anonimizan nombre y correo. Pueden conservarse préstamos históricos, eventos de armario y registros de asistencia o auditoría por seguridad, ley o derechos de otros miembros. Te explicaremos la conservación aplicable en la respuesta."
+    ]
+  },
+  "support": {
+    "contact_title": "Contactar con asistencia",
+    "contact": [
+      "Escribe a ytwl1013@gmail.com para dudas sobre la app, cuenta o armario. Describe el problema y el mensaje de error; no envíes contraseñas ni códigos de acceso."
+    ],
+    "button": "Abrir correo",
+    "privacy_title": "Privacidad y cuenta",
+    "privacy": [
+      "Usa Opciones de privacidad para ejercer derechos y Eliminar cuenta para pedir la eliminación sin la app."
+    ]
+  }
+}

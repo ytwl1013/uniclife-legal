@@ -1,0 +1,95 @@
+{
+  "lang": "nl-NL",
+  "updated": "Laatst bijgewerkt: 23 september 2026",
+  "nav": {
+    "privacy": "Privacybeleid",
+    "privacy-choices": "Privacykeuzes",
+    "delete-account": "Account verwijderen",
+    "support": "Ondersteuning"
+  },
+  "intros": {
+    "privacy": "Hoe UnicLife Key Cabinet persoonsgegevens verwerkt.",
+    "privacy-choices": "Oefen uw privacyrechten uit zonder in te loggen.",
+    "delete-account": "Vraag verwijdering aan, ook zonder de app.",
+    "support": "Neem contact op met UnicLife Key Cabinet."
+  },
+  "privacy": [
+    [
+      "Verantwoordelijke",
+      [
+        "Dit beleid geldt voor de app UnicLife Key Cabinet en de bijbehorende dienst. De UnicLife-aanbieder in de bestelling of dienstverleningsovereenkomst beheert account- en dienstgegevens. Een klantorganisatie kan afzonderlijk beslissen over gegevens van leners, werknemers, sleutels en toegang die haar beheerders invoeren. Mail ytwl1013@gmail.com om te vragen wie verantwoordelijk is voor uw account."
+      ]
+    ],
+    [
+      "Gegevens en bronnen",
+      [
+        "Wij verwerken naam, e-mailadres, taal, wachtwoordhashes, sessies, aanmeld- en toestemmingsgegevens en optionele meldingstokens; kastidentificaties, locaties, leden en instellingen; sleutelnamen, namen en optionele contactgegevens van leners, uitleningen en retourdata; activiteiten, audit- en beperkte beveiligingsgegevens; ondersteuningsberichten en ingezonden bijlagen. De gegevens komen van u, uw organisatie, verbonden kasten en appgebruik. Camerabeelden bij QR-scans worden niet bewust opgeslagen of geüpload. Een optionele profielfoto blijft op uw apparaat."
+      ]
+    ],
+    [
+      "Doelen en rechtsgronden",
+      [
+        "Wij gebruiken gegevens om accounts te verifiëren en beveiligen, kasten en uitleningen te beheren, dienstmeldingen te sturen, veiligheids- en auditregistraties bij te houden, ondersteuning te bieden, wettelijke plichten na te komen en geschillen op te lossen. In de EER en het VK kan de grondslag overeenkomst, gerechtvaardigd belang, wettelijke plicht of vereiste toestemming zijn. Toestemming kan voor toekomstige verwerking worden ingetrokken."
+      ]
+    ],
+    [
+      "Ontvangers, beveiliging en doorgifte",
+      [
+        "Bevoegde beheerders kunnen relevante gegevens zien. Dienstverleners kunnen hosting, opslag, e-mail, pushmeldingen, beveiliging en ondersteuning verzorgen. Wij gebruiken toegangscontrole, verificatie, versleuteld transport en auditlogs. Wij verkopen geen gegevens en delen ze niet voor gerichte reclame. Productiesystemen en back-ups zijn bedoeld voor hosting in de VS. Doorgifte vanuit de EER, het VK of Zwitserland moet waar vereist op een geldige grondslag en passende waarborgen berusten; vraag ons om details."
+      ]
+    ],
+    [
+      "Bewaren en verwijderen",
+      [
+        "Wij bewaren gegevens zolang nodig voor de dienst en daarna alleen voor beveiliging, wettelijke plichten of geschillen. De termijn hangt af van gegevens en doel. Accountverwijdering trekt sessies in, verwijdert actieve lidmaatschappen en anonimiseert naam en e-mailadres. Historische uitleningen, kastgebeurtenissen en ondersteunings- en auditgegevens kunnen om gerechtvaardigde redenen blijven bestaan. Een superbeheerder moet eerst de verantwoordelijkheid voor de kast overdragen of opheffen; ondersteuning kan helpen."
+      ]
+    ],
+    [
+      "Rechten, kinderen en contact",
+      [
+        "Waar van toepassing kunt u inzage, correctie, verwijdering, beperking, bezwaar of overdraagbaarheid vragen en toestemming intrekken. In de EER en het VK kunt u klagen bij een toezichthouder; sommige Amerikaanse staten kennen extra rechten. Wij kunnen uw identiteit controleren en wettelijke uitzonderingen toepassen. De dienst is voor bevoegde gebruikers van organisaties, niet voor kinderen jonger dan 16 jaar. Mail ytwl1013@gmail.com zonder wachtwoorden of kastcodes te sturen."
+      ]
+    ]
+  ],
+  "choices": {
+    "request_title": "Dien een verzoek in",
+    "request": [
+      "Mail ytwl1013@gmail.com, bij voorkeur vanaf uw accountadres. Geef aan of u inzage, een kopie, correctie, verwijdering, beperking, bezwaar of intrekking van toestemming wilt. Stuur aanvankelijk geen wachtwoorden of identiteitsdocumenten."
+    ],
+    "button": "Privacyverzoek mailen",
+    "rights_title": "Afhandeling",
+    "rights": [
+      "Wij kunnen uw identiteit controleren en overleggen met de klantorganisatie die ingevoerde gegevens beheert. Verzoeken uit de EER en het VK worden doorgaans binnen een maand beantwoord, behoudens toegestane verlenging. U kunt klagen bij uw lokale privacytoezichthouder."
+    ],
+    "ads_title": "Reclame en tracking",
+    "ads": [
+      "Wij verkopen geen persoonsgegevens, delen ze niet voor gerichte reclame en tonen geen advertenties van derden. Er is dus geen reclameoptie om uit te zetten. Optionele meldingen en machtigingen beheert u in de app of apparaatinstellingen."
+    ]
+  },
+  "delete": {
+    "request_title": "Verwijdering via het web aanvragen",
+    "request": [
+      "Mail ytwl1013@gmail.com met als onderwerp ‘Delete my UnicLife Key Cabinet account’, bij voorkeur vanaf uw accountadres. Hebt u daar geen toegang meer toe, geef dan een veilige contactmethode op. Wij verifiëren het eigenaarschap en helpen zonder dat u de app opnieuw hoeft te installeren."
+    ],
+    "button": "Verwijderverzoek mailen",
+    "app_title": "Verwijderen in de app",
+    "app": [
+      "Ga na aanmelden naar Account → Account en beveiliging → Account verwijderen en bevestig. Een superbeheerder moet eerst zijn rol overdragen of de kast verwijderen. Ondersteuning kan helpen."
+    ],
+    "data_title": "Wat gebeurt met gegevens",
+    "data": [
+      "Sessies worden ingetrokken, actieve lidmaatschappen en meldingstokens verwijderd, en naam en e-mailadres geanonimiseerd. Historische uitleningen, kastgebeurtenissen en ondersteunings- en auditgegevens kunnen voor beveiliging, wet of rechten van anderen bewaard blijven. Wij lichten toepasselijke bewaartermijnen toe in ons antwoord."
+    ]
+  },
+  "support": {
+    "contact_title": "Contact met ondersteuning",
+    "contact": [
+      "Mail ytwl1013@gmail.com voor hulp met de app, uw account of een kast. Beschrijf het probleem en eventuele foutmelding; stuur geen wachtwoorden of toegangscodes."
+    ],
+    "button": "E-mail openen",
+    "privacy_title": "Privacy en account",
+    "privacy": [
+      "Gebruik Privacykeuzes voor uw rechten en Account verwijderen om ook zonder app een verwijderverzoek te doen."
+    ]
+  }
+}

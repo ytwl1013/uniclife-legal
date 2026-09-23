@@ -1,0 +1,95 @@
+{
+  "lang": "pl-PL",
+  "updated": "Ostatnia aktualizacja: 23 września 2026 r.",
+  "nav": {
+    "privacy": "Polityka prywatności",
+    "privacy-choices": "Wybory dotyczące prywatności",
+    "delete-account": "Usuń konto",
+    "support": "Pomoc"
+  },
+  "intros": {
+    "privacy": "Jak UnicLife Key Cabinet przetwarza dane osobowe.",
+    "privacy-choices": "Skorzystaj ze swoich praw bez logowania.",
+    "delete-account": "Poproś o usunięcie konta także bez aplikacji.",
+    "support": "Skontaktuj się z pomocą UnicLife Key Cabinet."
+  },
+  "privacy": [
+    [
+      "Administrator danych",
+      [
+        "Polityka dotyczy aplikacji UnicLife Key Cabinet i powiązanej usługi. Dostawca UnicLife wskazany w zamówieniu lub umowie zarządza danymi konta i usługi. Organizacja klienta może samodzielnie decydować o danych osób wypożyczających, pracowników, kluczy i dostępu wprowadzonych przez jej administratorów. Napisz na ytwl1013@gmail.com, aby ustalić podmiot odpowiedzialny za Twoje konto."
+      ]
+    ],
+    [
+      "Dane i źródła",
+      [
+        "Przetwarzamy imię i nazwisko, e-mail, język, hasze haseł, sesje, zapisy logowania i zgody oraz opcjonalne tokeny powiadomień; identyfikatory, lokalizacje, członków i ustawienia szafek; nazwy kluczy, nazwiska i opcjonalne dane kontaktowe wypożyczających, wypożyczenia i daty zwrotu; aktywność, audyt i ograniczone dane bezpieczeństwa; wiadomości do pomocy i przesłane załączniki. Dane pochodzą od Ciebie, Twojej organizacji, połączonych szafek i korzystania z aplikacji. Obrazy kamery przy skanowaniu QR nie są celowo zapisywane ani przesyłane. Opcjonalne zdjęcie profilowe pozostaje na urządzeniu."
+      ]
+    ],
+    [
+      "Cele i podstawy prawne",
+      [
+        "Używamy danych do uwierzytelniania i ochrony kont, obsługi szafek, zarządzania kluczami i wypożyczeniami, wysyłania komunikatów, prowadzenia zapisów bezpieczeństwa, pomocy, wykonania prawa i rozstrzygania sporów. W EOG i Wielkiej Brytanii podstawą może być umowa, prawnie uzasadniony interes, obowiązek prawny lub wymagana zgoda. Zgodę można wycofać na przyszłość."
+      ]
+    ],
+    [
+      "Odbiorcy, bezpieczeństwo i transfer",
+      [
+        "Upoważnieni administratorzy mogą widzieć właściwe dane. Dostawcy usług mogą zapewniać hosting, przechowywanie, e-mail, powiadomienia, bezpieczeństwo i pomoc. Stosujemy kontrolę dostępu, uwierzytelnianie, szyfrowany przesył i dzienniki audytu. Nie sprzedajemy danych ani nie udostępniamy ich na potrzeby reklamy ukierunkowanej. Systemy produkcyjne i kopie zapasowe mają znajdować się w USA. Przekazywanie danych z EOG, Wielkiej Brytanii lub Szwajcarii musi opierać się, gdy to wymagane, na zgodnym z prawem mechanizmie i zabezpieczeniach; zapytaj nas o szczegóły."
+      ]
+    ],
+    [
+      "Przechowywanie i usuwanie",
+      [
+        "Przechowujemy dane, dopóki są potrzebne do usługi, a potem tylko dla bezpieczeństwa, obowiązków prawnych lub sporów. Okres zależy od danych i celu. Usunięcie konta unieważnia sesje, usuwa aktywne członkostwa i anonimizuje nazwę oraz e-mail. Historyczne wypożyczenia, zdarzenia szafek i zapisy pomocy oraz audytu mogą pozostać z uzasadnionych powodów. Superadministrator musi najpierw przekazać lub zakończyć odpowiedzialność za szafkę; pomoc może go wesprzeć."
+      ]
+    ],
+    [
+      "Prawa, dzieci i kontakt",
+      [
+        "Gdy prawo ma zastosowanie, możesz żądać dostępu, sprostowania, usunięcia, ograniczenia, sprzeciwu lub przeniesienia danych oraz wycofać zgodę. W EOG i Wielkiej Brytanii możesz złożyć skargę do organu nadzorczego; niektóre stany USA przyznają dodatkowe prawa. Możemy zweryfikować tożsamość i zastosować wyjątki prawne. Usługa jest dla upoważnionych użytkowników organizacji, nie dla dzieci poniżej 16 lat. Napisz na ytwl1013@gmail.com bez podawania haseł i kodów szafek."
+      ]
+    ]
+  ],
+  "choices": {
+    "request_title": "Złóż wniosek",
+    "request": [
+      "Napisz na ytwl1013@gmail.com, najlepiej z adresu konta. Określ, czy prosisz o dostęp, kopię, sprostowanie, usunięcie, ograniczenie, sprzeciw czy wycofanie zgody. W pierwszej wiadomości nie przesyłaj haseł ani dokumentów tożsamości."
+    ],
+    "button": "Wyślij wniosek",
+    "rights_title": "Obsługa wniosku",
+    "rights": [
+      "Możemy zweryfikować tożsamość i skontaktować się z organizacją klienta odpowiedzialną za wprowadzone dane. Na wnioski z EOG i Wielkiej Brytanii odpowiadamy zwykle w ciągu miesiąca, z możliwością dozwolonego przedłużenia. Możesz złożyć skargę do lokalnego organu ochrony danych."
+    ],
+    "ads_title": "Reklama i śledzenie",
+    "ads": [
+      "Nie sprzedajemy danych osobowych, nie udostępniamy ich do reklamy ukierunkowanej i nie wyświetlamy reklam zewnętrznych. Nie ma więc przełącznika rezygnacji z reklam. Opcjonalne powiadomienia i uprawnienia można zmieniać w aplikacji lub ustawieniach urządzenia."
+    ]
+  },
+  "delete": {
+    "request_title": "Poproś o usunięcie przez WWW",
+    "request": [
+      "Napisz na ytwl1013@gmail.com z tematem „Delete my UnicLife Key Cabinet account”, najlepiej z adresu konta. Jeśli nie masz już do niego dostępu, podaj bezpieczny sposób kontaktu. Zweryfikujemy własność konta i pomożemy bez konieczności ponownej instalacji aplikacji."
+    ],
+    "button": "Wyślij wniosek o usunięcie",
+    "app_title": "Usuń w aplikacji",
+    "app": [
+      "Po zalogowaniu otwórz Konto → Konto i bezpieczeństwo → Usuń konto i potwierdź. Superadministrator musi najpierw przekazać rolę lub usunąć szafkę. Pomoc może go wesprzeć."
+    ],
+    "data_title": "Co dzieje się z danymi",
+    "data": [
+      "Sesje zostają unieważnione, aktywne członkostwa i tokeny powiadomień usunięte, a nazwa i e-mail zanonimizowane. Historyczne wypożyczenia, zdarzenia szafek oraz zapisy pomocy i audytu mogą pozostać ze względów bezpieczeństwa, prawa lub praw innych osób. Wyjaśnimy właściwy okres przechowywania w odpowiedzi."
+    ]
+  },
+  "support": {
+    "contact_title": "Kontakt z pomocą",
+    "contact": [
+      "Napisz na ytwl1013@gmail.com w sprawie aplikacji, konta lub szafki. Opisz problem i ewentualny komunikat błędu; nie przesyłaj haseł ani kodów dostępu."
+    ],
+    "button": "Otwórz e-mail",
+    "privacy_title": "Prywatność i konto",
+    "privacy": [
+      "Użyj strony Wybory dotyczące prywatności, aby skorzystać z praw, oraz strony Usuń konto, aby złożyć wniosek także bez aplikacji."
+    ]
+  }
+}
